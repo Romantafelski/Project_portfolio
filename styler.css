@@ -4,14 +4,20 @@ background:url(https://cdn.wallpapersafari.com/67/66/nDuvAM.jpg)
 
 }
 
-.header {
+.h1 {
     color: rgb(195, 194, 194);
 }
-h4 {
+.h4 {
     margin-top: -20px;
+    color: rgb(195, 194, 194);
 }
 .menu {
     background: rgb(21, 21, 21);
     color: rgb(200, 200, 200);
 
+}
+
+.missionStatement {
+    color: rgb(195, 194, 194);
+    text-align: center;
 }
