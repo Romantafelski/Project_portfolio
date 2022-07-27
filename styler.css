@@ -6,18 +6,85 @@ background:url(https://cdn.wallpapersafari.com/67/66/nDuvAM.jpg)
 
 .h1 {
     color: rgb(195, 194, 194);
+ 
 }
 .h4 {
-    margin-top: -20px;
     color: rgb(195, 194, 194);
-}
-.menu {
-    background: rgb(21, 21, 21);
-    color: rgb(200, 200, 200);
-
+    position: fixed;
+    top: 30px;
+    left: 9px;
+    
 }
 
-.missionStatement {
+
+.menuButton {
+    position: fixed;
+    top: 170px;
+    background: none;
     color: rgb(195, 194, 194);
+    border: none;
+    font-size: 20px;
+    text-decoration: underline;
+    left:2px;
+}
+
+#bio {
+    color: rgb(195, 194, 194);
+    position: fixed;
+    top:200px
+}
+
+#resume {
+    color:rgb(195, 194, 194);
+    position: fixed;
+    top: 220px;
+}
+
+#projects {
+    color: rgb(195, 194, 194);
+    position: fixed;
+    top: 240px
+}
+
+#contact {
+    color:rgb(195, 194, 194);
+    position:fixed;
+    top: 260px
+}
+
+.Roman {
+    color: rgb(195, 194, 194);
+    position: fixed;
+    top: 200px;
+    left: 620px;
+    border:rgb(195, 194, 194) ;
+    border: 2mm ridge rgb(195, 194, 194);
+    background: none;
+    height: 1.5cm;
+    width:4.75cm;
+    font-size: 50px;
     text-align: center;
+
+
+}
+
+.intro {
+    color:  rgb(195, 194, 194);
+    font-size: 24px;
+    position: fixed;
+    top: 350px;
+    left: 300px;
+    margin-right: 200px;
+}
+
+.linkedIn {
+    position: fixed;
+    right: 20px;
+    top: 20px;
+}
+
+.github {
+    position: fixed;
+    right: 70px;
+    top: 20px;
 }
