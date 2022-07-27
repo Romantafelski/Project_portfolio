@@ -56,13 +56,13 @@ background:url(https://cdn.wallpapersafari.com/67/66/nDuvAM.jpg)
     color: rgb(195, 194, 194);
     position: fixed;
     top: 200px;
-    left: 620px;
+    left: 255px;
     border:rgb(195, 194, 194) ;
     border: 2mm ridge rgb(195, 194, 194);
     background: none;
     height: 1.5cm;
     width:4.75cm;
-    font-size: 50px;
+    font-size: 150px;
     text-align: center;
 
 
@@ -73,8 +73,8 @@ background:url(https://cdn.wallpapersafari.com/67/66/nDuvAM.jpg)
     font-size: 24px;
     position: fixed;
     top: 350px;
-    left: 300px;
-    margin-right: 200px;
+    left: 250px;
+    margin-right: 250px;
 }
 
 .linkedIn {
