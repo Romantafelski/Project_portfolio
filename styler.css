@@ -55,14 +55,14 @@ background:url(https://cdn.wallpapersafari.com/67/66/nDuvAM.jpg)
 .Roman {
     color: rgb(195, 194, 194);
     position: fixed;
-    top: 200px;
-    left: 255px;
+    top: 235px;
+    left: 280px;
     border:rgb(195, 194, 194) ;
-    border: 2mm ridge rgb(195, 194, 194);
+    border: 3mm groove rgb(195, 194, 194);
     background: none;
-    height: 1.5cm;
-    width:4.75cm;
-    font-size: 150px;
+    height: 8m;
+    width: 22cm;
+    font-size: 260px;
     text-align: center;
 
 
