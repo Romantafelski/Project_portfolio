@@ -1,0 +1,65 @@
+body {
+    
+    background:url(https://cdn.wallpapersafari.com/67/66/nDuvAM.jpg)
+    
+    }
+    
+    .h1 {
+        color: rgb(195, 194, 194);
+     
+    }
+    .h4 {
+        color: rgb(195, 194, 194);
+        position: fixed;
+        top: 30px;
+        left: 9px;
+        
+    }
+    
+    
+    .menuButton {
+        position: fixed;
+        top: 170px;
+        background: none;
+        color: rgb(195, 194, 194);
+        border: none;
+        font-size: 20px;
+        text-decoration: underline;
+        left:2px;
+    }
+    
+    #bio {
+        color: rgb(195, 194, 194);
+        position: fixed;
+        top:200px
+    }
+    
+    #resume {
+        color:rgb(195, 194, 194);
+        position: fixed;
+        top: 220px;
+    }
+    
+    #projects {
+        color: rgb(195, 194, 194);
+        position: fixed;
+        top: 240px
+    }
+    
+    #contact {
+        color:rgb(195, 194, 194);
+        position:fixed;
+        top: 260px
+    }
+    
+    .linkedIn {
+        position: fixed;
+        right: 20px;
+        top: 20px;
+    }
+    
+    .github {
+        position: fixed;
+        right: 70px;
+        top: 20px;
+    }

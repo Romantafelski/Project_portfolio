@@ -5,7 +5,7 @@
    
    
     const $aboutMe = $("<div>").addClass("aboutMe").text("About Me").appendTo("body")
-    const $aboutMeText = $("<p>").text("My name is Roman Tafelski. I graduated from Howell High School in Howell, Mi. I enjoy gaming and having game night with my friends. I am engaged to my fiance Chloe, we will be getting married in December. We have been together since senior year of highschool (8 years). We have 2 dogs (Lola and Gus), a cat (Stitch), and a leopard gecko (Benni). During my life I played soccer for 15 years. I played varisty soccer for 3 years and was co-captain my senior year. I grew up with 2 parents and a sister, with a 14 year stint where my great grandmother lived with us. Thanks for taking the time to learn about me! ").addClass("intro").appendTo(".Roman")
+    const $aboutMeText = $("<p>").text("My name is Roman Tafelski. I graduated from Howell High School in Howell, Mi. I enjoy gaming and having game night with my friends. I am engaged to my fiance Chloe, we will be getting married in December. We have been together since senior year of highschool (8 years). We have 2 dogs (Lola and Gus), a cat (Stitch), and a leopard gecko (Benni). During my life I played soccer for 15 years. I played varisty soccer for 3 years and was co-captain my senior year. I grew up with 2 parents and a sister, with a 14 year stint where my great grandmother lived with us. Thanks for taking the time to learn about me! ").addClass("text").appendTo(".aboutMe")
     
     
     

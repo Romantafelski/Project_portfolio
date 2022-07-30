@@ -53,3 +53,33 @@ body {
         text-decoration: underline;
         left:2px;
     }
+
+    p {
+        font-size: 30px;
+        color: rgb(195, 194, 194);
+    }
+    
+    #resume {
+        color:rgb(195, 194, 194);
+        position: fixed;
+        top: 220px;
+    }
+    
+    #projects {
+        color: rgb(195, 194, 194);
+        position: fixed;
+        top: 240px
+    }
+    
+    #contact {
+        color:rgb(195, 194, 194);
+        position:fixed;
+        top: 260px
+    }
+
+    #home {
+        color: rgb(195, 194, 194);
+        position: fixed;
+        top:200px
+    }
+    
