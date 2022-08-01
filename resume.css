@@ -70,7 +70,7 @@ body {
         border: 2mm ridge;
         color: rgb(195, 194, 194);
         position: fixed;
-        top: 20px;
+        top: -5px;
         left: 550px;
         border: 2mm ridge rgb(195, 194, 194);
         background: none;
@@ -86,22 +86,56 @@ body {
 
     #romans {
         position: fixed;  
-        left: 1000px;
-        top: 50px;
+        left: 120px;
+        top: 120px;
+        right: 600px
     }
 
     #ups {
         position: fixed;  
-        left: 1000px;
+        left: 120px;
         top: 300px;
+        right: 600px;
     }
 
     #cottageInn {
         position: fixed;  
-        left: 1000px;
-        top: 600px;
+        left: 120px;
+        top: 425px;
+        right: 600px;
     }
 
-    ul {
-        font-size: 13px;
+    .jobDescription {
+        font-size: 18px;
+    }
+    
+    .skills {
+        position: fixed;
+        top: 100px;
+        left: 1100px;
+        color:rgb(224, 224, 224);
+        font-size: 30px;
+        font-weight: bold;
+
+    }
+
+    .skillList {
+        font-size: 20px;
+        top: 150px;
+        left: 1100px;
+        margin: 5mm;
+        font-weight: normal;
+    }
+
+    .education {
+        position: fixed;
+        top: 550px;
+        left: 120px;
+    }
+
+    .school {
+        position: fixed;
+        top: 580px;
+        left: 120px;
+        color:rgb(195, 194, 194)
     }

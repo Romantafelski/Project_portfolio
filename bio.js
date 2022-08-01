@@ -5,14 +5,14 @@
    
    
     const $aboutMe = $("<div>").addClass("aboutMe").text("About Me").appendTo("body")
-    const $aboutMeText = $("<p>").text("My name is Roman Tafelski. I graduated from Howell High School in Howell, Mi. I enjoy gaming and having game night with my friends. I am engaged to my fiance Chloe, we will be getting married in December. We have been together since senior year of highschool (8 years). We have 2 dogs (Lola and Gus), a cat (Stitch), and a leopard gecko (Benni). During my life I played soccer for 15 years. I played varisty soccer for 3 years and was co-captain my senior year. I grew up with 2 parents and a sister, with a 14 year stint where my great grandmother lived with us. Thanks for taking the time to learn about me! ").addClass("text").appendTo(".aboutMe")
+    const $aboutMeText = $("<p>").text("Hello, my name is Roman Tafelski. I am a student studying in the immersive General Assembly online program. I enjoy learning and developing a deeper understanding of coding languages. I love creatigng code to take a complex idea and turn it into something that is simple and easy to use. Throughout this course I am hoping to gain a wider knowledge base and strengthen what I already know. When I am not coding I enjoy playing video games or hanging out with my fiance and our pets.").addClass("text").appendTo("body")
     
     
     
     $("<button>").addClass("menuButton").text("Menu").appendTo("body")
     $(".menu").hide()
     const dropDown = () => {
-        $(".menu").show("slow")
+        $(".menu").toggle("slow")
     }
     $('.menuButton').on("click", dropDown)
     //https://www.w3schools.com/jquery/event_hover.asp

@@ -2,7 +2,7 @@
     color: rgb(195, 194, 194);
     position: fixed;
     top: 30px;
-    left: 420px;
+    left: 440px;
     border:rgb(195, 194, 194) ;
     border: 2mm ridge rgb(195, 194, 194);
     background: none;
@@ -10,6 +10,15 @@
     width:12cm;
     font-size: 50px;
     text-align: center;
+}
+
+.text {
+    text-align: left;
+    position: fixed;
+    left: 430px;
+    right: 480px;
+    margin: 5mm;
+    top: 150px;
 }
 
 .linkedIn {
@@ -82,4 +91,5 @@ body {
         position: fixed;
         top:200px
     }
+
     

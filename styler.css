@@ -88,3 +88,10 @@ background:url(https://cdn.wallpapersafari.com/67/66/nDuvAM.jpg)
     right: 70px;
     top: 20px;
 }
+
+.image {
+    height: 200px;
+    width: 200px;
+    position: fixed;
+    left: 300px;
+}
