@@ -1,3 +1,3 @@
 # Project_portfolio
 
-For my website I was trying for a more simplistic site that is easy to use. I went with backgrounds that didn't have a lot going on in them so that it had a clean look to it. 
+For my website I was trying for a more simplistic site that is easy to use. I went with backgrounds that didn't have a lot going on in them so that it had a clean look to it. Some of the technologies I used were onces such as toggleClass(), toggle(), and hide(). I used these in order to change the css of the webpage background as well as highlight the links and menu selections. I created separate .css, .js, and .html pages to change the look of them. I used jquery in order to create everything except for the links to the various websites.
