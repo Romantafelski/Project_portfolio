@@ -1,3 +1,6 @@
+$("body").addClass("background")
+    
+
 const $h1 = $("<h1>").addClass("h1").text("Roman Tafelski")
 $("body").append($h1)
 const $h4 = $("<h4>").addClass("h4").text("Student at General Assembly").appendTo("body")
@@ -51,3 +54,10 @@ $(".menuButton").hover(() => {
 }, () => {
     $("button").css("color", "rgb(195, 194, 194)")
 })
+
+const $change = $("<button>").addClass("changeBackground").text("Don't like the background? Change it!").appendTo("body")
+
+const removal = () => {
+  $("body").toggleClass()
+}
+$(".changeBackground").on("click", removal)

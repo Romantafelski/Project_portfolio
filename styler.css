@@ -89,9 +89,12 @@ background:url(https://cdn.wallpapersafari.com/67/66/nDuvAM.jpg)
     top: 20px;
 }
 
-.image {
-    height: 200px;
-    width: 200px;
+.changeBackground {
     position: fixed;
-    left: 300px;
+    left: 20px;
+    bottom: 20px;
+}
+
+.background {
+    background: url(https://removal.ai/wp-content/uploads/2021/09/black-background-10-hipwallpaper.png)
 }

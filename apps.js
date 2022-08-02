@@ -1,4 +1,4 @@
-
+    $("body").addClass("background")
     
     const $h1 = $("<h1>").addClass("h1").text("Roman Tafelski")
     $("body").append($h1)
@@ -7,6 +7,12 @@
    
     const $Roman = $("<div>").addClass("Roman").text("Roman").appendTo("body")
 
+    const $change = $("<button>").addClass("changeBackground").text("Don't like the background? Change it!").appendTo("body")
+
+    const removal = () => {
+      $("body").toggleClass()
+    }
+    $(".changeBackground").on("click", removal)
     
     
     

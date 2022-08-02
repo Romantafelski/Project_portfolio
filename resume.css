@@ -139,3 +139,13 @@ body {
         left: 120px;
         color:rgb(195, 194, 194)
     }
+
+    .background {
+        background: url(https://removal.ai/wp-content/uploads/2021/09/black-background-10-hipwallpaper.png)
+    }
+
+    .changeBackground {
+        position: fixed;
+        left: 20px;
+        bottom: 20px;
+    }

@@ -1,9 +1,12 @@
-
+$("body").addClass("background")
+    
     
     const $h1 = $("<h1>").addClass("h1").text("Roman Tafelski")
     $("body").append($h1)
     const $h4 = $("<h4>").addClass("h4").text("Student at General Assembly").appendTo("body")
     
+    const $contact = $("<h1>").addClass("contactMe").text("Contact Me").appendTo("body")
+
     $("<button>").addClass("menuButton").text("Menu").appendTo("body")
     
     $(".menu").hide()
@@ -29,6 +32,11 @@
     }
     $(".contact").on("click", contactBox)
     
-    
+    const $change = $("<button>").addClass("changeBackground").text("Don't like the background? Change it!").appendTo("body")
+
+    const removal = () => {
+      $("body").toggleClass()
+    }
+    $(".changeBackground").on("click", removal)
     
     
