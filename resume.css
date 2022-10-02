@@ -75,11 +75,11 @@ body {
         color: rgb(195, 194, 194);
         position: fixed;
         left: 40%;
-        border: 1vw ridge rgb(195, 194, 194);
+        border: .4vwridge rgb(195, 194, 194);
         background: none;
         height: 3vw;
         width:8vw;
-        font-size: 3.5;
+        font-size: 3.5vw;
         text-align: center;
     }
 
@@ -89,27 +89,27 @@ body {
 
     #romans {
         position: fixed;  
-        left: 23%
-        top: 20%
+        left: 23%;
+        top: 40%%
         right: 30%
     }
 
     #ups {
         position: fixed;  
-        left: 23%;
-        top: 33%px;
+        left: 33%;
+        top: 75%;
         right: 30%;
     }
 
     #cottageInn {
         position: fixed;  
-        left: 120px;
-        top: 425px;
-        right: 600px;
+        left: 23%;
+        top: 60%;
+        right: 30%;
     }
 
     .jobDescription {
-        font-size: 18px;
+        font-size: .8vw;
     }
     
     .skills {
