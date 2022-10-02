@@ -102,7 +102,9 @@ body {
     }
 
     .background {
-        background: url(https://removal.ai/wp-content/uploads/2021/09/black-background-10-hipwallpaper.png)
+        background: url(https://removal.ai/wp-content/uploads/2021/09/black-background-10-hipwallpaper.png);
+        position: fixed;
+        background-size:auto;
     }
     
     .changeBackground {
