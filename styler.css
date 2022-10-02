@@ -7,14 +7,14 @@ body {
     .h1 {
         color: rgb(195, 194, 194);
         position: fixed;
-        top: .5%;
+        top: .01%;
         font-size: 3vw;
      
     }
     .h4 {
         color: rgb(195, 194, 194);
         position: fixed;
-        top: 6%;
+        top: 4.5%;
         left: .7%;
         font-size: 2vw;
         
