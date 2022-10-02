@@ -48,7 +48,8 @@ body {
     #contact {
         color:rgb(195, 194, 194);
         position:fixed;
-        top: 260px
+        top: 52%;
+        font-size: 2vw;
     }
     
     .linkedIn {
