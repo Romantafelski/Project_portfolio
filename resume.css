@@ -33,9 +33,9 @@ body {
     }
     
     #bio {
-        color: rgb(195, 194, 194);
         position: fixed;
-        top:220px
+        top: 44%;
+        font-size: 2vw;
     }
     
     #projects {
@@ -66,9 +66,9 @@ body {
 
 
     #home {
-        color: rgb(195, 194, 194);
         position: fixed;
-        top:200px
+        top: 40%;
+        font-size: 2vw;
     }
     
     .resumeHeader {
