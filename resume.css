@@ -92,7 +92,7 @@ body {
         font-size: 1.2vw;
         position: fixed;
         top: 21%;
-        left: 26%;
+        left: 4%;
         right: 35%;
     }
 
@@ -100,7 +100,7 @@ body {
         position: fixed;  
         left: 23%;
         top: 15%;
-        right: 30%;
+        right: 23%;
         font: 1.8vw;
         color: rgb(195, 194, 194)
     }
@@ -108,8 +108,10 @@ body {
     #ups {
         position: fixed;  
         left: 23%;
-        top: 70%;
-        right: 30%;
+        top: 75%;
+        right: 23%;
+        font: 1.8vw;
+        color: rgb(195, 194, 194)
     }
 
     #cottageInn {
@@ -119,8 +121,22 @@ body {
         right: 30%;
     }
 
-    .jobDescription {
-        font-size: 1.5vw;
+    #ciDescription {
+        color:rgb(195, 194, 194);
+        font-size: 1.2vw;
+        position: fixed;
+        top: 78%;
+        left: 4%;
+        right: 35%;
+    }
+
+    #upsDescription {
+        color:rgb(195, 194, 194);
+        font-size: 1.2vw;
+        position: fixed;
+        top: 33%;
+        left: 4%;
+        right: 35%;
     }
     
     .skills {
