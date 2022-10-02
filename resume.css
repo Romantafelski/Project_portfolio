@@ -124,6 +124,7 @@ body {
     }
 
     .skillList {
+        position: fixed;
         font-size: 1.5vw;
         top: 15%;
         right: .1%;
@@ -133,8 +134,8 @@ body {
 
     .education {
         position: fixed;
-        bottom: 20%;
-        right: 5%;
+        bottom: 23%;
+        right: 9%;
     }
 
     .school {
