@@ -75,12 +75,14 @@ body {
         color: rgb(195, 194, 194);
         position: fixed;
         left: 40%;
-        border: .4vw ridge rgb(195, 194, 194);
+        border: .7vw ridge rgb(195, 194, 194);
         background: none;
-        height: 3vw;
-        width:8vw;
+        height: 3.3vw;
+        width:17vw;
         font-size: 3.5vw;
-        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
     h2 {
