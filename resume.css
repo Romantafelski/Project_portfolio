@@ -91,7 +91,7 @@ body {
     #romans {
         position: fixed;  
         left: 23%;
-        top: 25%;
+        top: 10%;
         right: 30%
     }
 
@@ -124,17 +124,17 @@ body {
     }
 
     .skillList {
-        font-size: 20px;
-        top: 150px;
-        left: 1100px;
-        margin: 5mm;
+        font-size: 1.5px;
+        top: 15%;
+        right: 5%;
+        margin: .3vw;
         font-weight: normal;
     }
 
     .education {
         position: fixed;
-        top: 550px;
-        left: 120px;
+        bottom: 10%;
+        right: 1%;
     }
 
     .school {
