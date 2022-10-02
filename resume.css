@@ -126,21 +126,21 @@ body {
     .skillList {
         font-size: 1.5px;
         top: 15%;
-        right: 5%;
+        right: .1%;
         margin: .3vw;
         font-weight: normal;
     }
 
     .education {
         position: fixed;
-        bottom: 10%;
+        bottom: 20%;
         right: 1%;
     }
 
     .school {
         position: fixed;
-        top: 580px;
-        left: 120px;
+        bottom: 7%;
+        right: .1%;
         color:rgb(195, 194, 194)
     }
 
