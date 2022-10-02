@@ -34,9 +34,9 @@ body {
     }
     
     #bio {
-        color: rgb(195, 194, 194);
         position: fixed;
-        top:220px
+        top: 45.5%;
+        font-size: 2vw;
     }
     
     #resume {
@@ -52,9 +52,9 @@ body {
     }
 
     #home {
-        color: rgb(195, 194, 194);
         position: fixed;
-        top:200px
+        top: 41%;
+        font-size: 2vw;
     }
     
     
