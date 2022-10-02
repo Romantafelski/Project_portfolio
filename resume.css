@@ -75,7 +75,7 @@ body {
         color: rgb(195, 194, 194);
         position: fixed;
         left: 40%;
-        border: .7vw ridge rgb(195, 194, 194);
+        border: .5vw ridge rgb(195, 194, 194);
         background: none;
         height: 3.3vw;
         width:17vw;
@@ -87,9 +87,12 @@ body {
         top:.000001%;
     }
 
-    h2 {
+    #romansDescription {
         color:rgb(195, 194, 194);
         font-size: 1.5vw;
+        position: fixed;
+        top: 17%;
+        left: 40%
     }
 
     #romans {

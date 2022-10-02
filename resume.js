@@ -13,7 +13,7 @@ const $romans = $("<h2>").addClass("jobLocation").attr("id","romans").text("Roma
 const $romansP = $("<p>").addClass("jobDescription").attr("id", "romansDescription").text("As a sales associate my responsibilities were to help customers in the store, analyze information and relay information to customers in a way that he or she will understand, restock the sales floor as well as cash customers out.  My responsibilities as a manager were to oversee work of other employees, count registers, manage inventory stock, and provide assistance to employees and customers. I was also responsible for handling any grievances brought from the customer.").appendTo("#romans")
 
 
-const $ups = $("<h2>").addClass("jobLocation").attr("id", "ups").text("UPS Package Handler").appendTo("body")
+const $ups = $("<h2>").attr("id", "ups").text("UPS Package Handler").appendTo("body")
 
 const $upsP = $("<p>").addClass("jobDescription").attr("id", "upsDescription").text("My responsibilities were to show up on time, be flexible, sort packages and place them into the appropriate trailer, and to memorize zip codes so that I was able to place packages in the appropriate trailers.").appendTo("#ups")
 
