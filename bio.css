@@ -2,7 +2,7 @@
     color: rgb(195, 194, 194);
     position: fixed;
     top: 10%;
-    left: 39%;
+    left: 38%;
     border:rgb(195, 194, 194) ;
     border: .8vw ridge rgb(195, 194, 194);
     background: none;
@@ -18,7 +18,7 @@
 .text {
     text-align: left;
     position: fixed;
-    left: 24%;
+    left: 22%;
     right: 20%;
     margin: 5mm;
     top: 27%;
