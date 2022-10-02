@@ -117,7 +117,7 @@ body {
     #ups {
         position: fixed;  
         left: 23%;
-        top: 68%;
+        top: 62%;
         right: 35%;
         font-size: 1.8vw;
         color: rgb(195, 194, 194)
@@ -126,7 +126,7 @@ body {
     #cottageInn {
         position: fixed;  
         left: 23%;
-        top: 48%;
+        top: 44%;
         right: 30%;
         color: rgb(195, 194, 194);
         font-size: 1.8vw;
@@ -136,7 +136,7 @@ body {
         color:rgb(195, 194, 194);
         font-size: 1.2vw;
         position: fixed;
-        top: 50.5%;
+        top: 47%;
         left: 25%;
         right: 35%;
     }
