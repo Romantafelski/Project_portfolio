@@ -34,28 +34,28 @@ body {
     #bio {
         color: rgb(195, 194, 194);
         position: fixed;
-        top: 40%;
+        top: 41%;
         font-size: 2vw;
     }
     
     #resume {
-        color:rgb(195, 194, 194);
-        position: fixed;
-        top: 44%;
+        color: rgb(195, 194, 194);
+        position:fixed;
+        top: 50%;
         font-size: 2vw;
     }
     
     #projects {
-        color: rgb(195, 194, 194);
-        position: fixed;
-        top: 48%;
+        color:rgb(195, 194, 194);
+        position:fixed;
+        top: 54%;
         font-size: 2vw;
     }
     
     #contact {
         color:rgb(195, 194, 194);
         position:fixed;
-        top: 52%;
+        top: 54%;
         font-size: 2vw;
     }
     
