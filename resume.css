@@ -133,7 +133,8 @@ body {
     }
 
     .education {
-        position: fixed;
+        display: flex;
+        flex-direction: column;
         bottom: 23%;
         right: 9%;
     }
