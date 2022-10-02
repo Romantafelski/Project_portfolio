@@ -8,18 +8,18 @@
     background: none;
     height: 1.5cm;
     width:12cm;
-    font-size: 6vw;
+    font-size: 5vw;
     text-align: center;
 }
 
 .text {
     text-align: left;
     position: fixed;
-    left: 35%;
-    right: 35%;
+    left: 20%;
+    right: 20%;
     margin: 5mm;
     top: 27%;
-    font-size: 5vw;
+    font-size: 3vw;
 }
 
 .linkedIn {
