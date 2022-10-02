@@ -35,25 +35,25 @@ body {
     #bio {
         color: rgb(195, 194, 194);
         position: fixed;
-        top: 40%;
+        top: 42%;
     }
     
     #resume {
         color:rgb(195, 194, 194);
         position: fixed;
-        top: 43%;
+        top: 45%;
     }
     
     #projects {
         color: rgb(195, 194, 194);
         position: fixed;
-        top: 46%;
+        top: 48%;
     }
     
     #contact {
         color:rgb(195, 194, 194);
         position:fixed;
-        top: 49%;
+        top: 51%;
     }
     
     .Roman {
