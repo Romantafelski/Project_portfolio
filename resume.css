@@ -85,6 +85,7 @@ body {
 
     h2 {
         color:rgb(195, 194, 194);
+        font-size: 1.7vw;
     }
 
     #romans {
@@ -96,7 +97,7 @@ body {
 
     #ups {
         position: fixed;  
-        left: 33%;
+        left: 23%;
         top: 60%;
         right: 30%;
     }
@@ -109,7 +110,7 @@ body {
     }
 
     .jobDescription {
-        font-size: .8vw;
+        font-size: 1.5vw;
     }
     
     .skills {
