@@ -85,7 +85,7 @@ body {
 
     h2 {
         color:rgb(195, 194, 194);
-        font-size: 1.7vw;
+        font-size: 1.5vw;
     }
 
     #romans {
@@ -98,14 +98,14 @@ body {
     #ups {
         position: fixed;  
         left: 23%;
-        top: 80%;
+        top: 70%;
         right: 30%;
     }
 
     #cottageInn {
         position: fixed;  
         left: 23%;
-        top: 57%;
+        top: 52%;
         right: 30%;
     }
 
