@@ -1,13 +1,13 @@
 .aboutMe {
     color: rgb(195, 194, 194);
     position: fixed;
-    top: 14%;
+    top: 10%;
     left: 35%;
     border:rgb(195, 194, 194) ;
     border: .8vw ridge rgb(195, 194, 194);
     background: none;
-    height: 8vw;
-    width: 25vw;
+    height: 6vw;
+    width: 22vw;
     font-size: 4.5vw;
     text-align: center;
     display: flex;
