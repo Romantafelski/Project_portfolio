@@ -7,7 +7,7 @@
    
    
     const $aboutMe = $("<div>").addClass("aboutMe").text("About Me").appendTo("body")
-    const $aboutMeText = $("<p>").text("Hello, my name is Roman Tafelski. I am a student studying in the immersive General Assembly online program. I enjoy learning and developing a deeper understanding of coding languages. I love creatigng code to take a complex idea and turn it into something that is simple and easy to use. Throughout this course I am hoping to gain a wider knowledge base and strengthen what I already know. When I am not coding I enjoy playing video games or hanging out with my fiance and our pets.").addClass("text").appendTo("body")
+    const $aboutMeText = $("<p>").text("Hello, my name is Roman Tafelski. I enjoy learning and developing a deeper understanding of coding languages. I love creating code to take a complex idea and turn it into something that is simple and easy to use. When I am not coding I enjoy playing video games or hanging out with my fiance and our pets.").addClass("text").appendTo("body")
     
     
     
