@@ -124,7 +124,8 @@ body {
     }
 
     .skillList {
-        position: fixed;
+        display: flex;
+        flex-direction: column;
         font-size: 1.5vw;
         top: 15%;
         right: .1%;
@@ -133,8 +134,7 @@ body {
     }
 
     .education {
-        display: flex;
-        flex-direction: column;
+        position: fixed;
         bottom: 23%;
         right: 9%;
     }
