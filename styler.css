@@ -36,28 +36,28 @@ body {
         color: rgb(195, 194, 194);
         position: fixed;
         top: 41%;
-        font-size: 2.25vw;
+        font-size: 2vw;
     }
     
     #resume {
         color:rgb(195, 194, 194);
         position: fixed;
         top: 44%;
-        font-size: 2.25vw;
+        font-size: 2vw;
     }
     
     #projects {
         color: rgb(195, 194, 194);
         position: fixed;
         top: 47%;
-        font-size: 2.25vw;
+        font-size: 2vw;
     }
     
     #contact {
         color:rgb(195, 194, 194);
         position:fixed;
         top: 50%;
-        font-size: 2.25vw;
+        font-size: 2vw;
     }
     
     .Roman {
