@@ -110,7 +110,7 @@ body {
         left: 23%;
         top: 75%;
         right: 23%;
-        font: 1.8vw;
+        font-size: 1.8vw;
         color: rgb(195, 194, 194)
     }
 
@@ -119,13 +119,15 @@ body {
         left: 23%;
         top: 52%;
         right: 30%;
+        color: rgb(195, 194, 194);
+        font-size: 1.8vw;
     }
 
     #ciDescription {
         color:rgb(195, 194, 194);
         font-size: 1.2vw;
         position: fixed;
-        top: 78%;
+        top: 54%;
         left: 4%;
         right: 35%;
     }
