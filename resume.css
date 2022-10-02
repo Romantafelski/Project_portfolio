@@ -124,7 +124,6 @@ body {
     }
 
     .skillList {
-        display: inline-block;
         font-size: 1.5vw;
         top: 15%;
         right: .1%;
@@ -143,7 +142,7 @@ body {
         bottom: 7%;
         right: .1%;
         color:rgb(195, 194, 194);
-        font-size: .8vw;
+        font-size: 1.6vw;
     }
 
     .background {
