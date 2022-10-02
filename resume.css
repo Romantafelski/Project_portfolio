@@ -135,6 +135,7 @@ body {
         position: fixed;
         bottom: 23%;
         right: 9%;
+        font: 2vw;
     }
 
     .school {
@@ -142,7 +143,7 @@ body {
         bottom: 7%;
         right: .1%;
         color:rgb(195, 194, 194);
-        font-size: 1.6vw;
+        font-size: 1.2vw;
     }
 
     .background {
