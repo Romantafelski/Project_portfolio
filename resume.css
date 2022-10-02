@@ -117,7 +117,7 @@ body {
     #ups {
         position: fixed;  
         left: 23%;
-        top: 62%;
+        top: 64%;
         right: 35%;
         font-size: 1.8vw;
         color: rgb(195, 194, 194)
@@ -136,7 +136,7 @@ body {
         color:rgb(195, 194, 194);
         font-size: 1.2vw;
         position: fixed;
-        top: 47%;
+        top: 50%;
         left: 25%;
         right: 35%;
     }
