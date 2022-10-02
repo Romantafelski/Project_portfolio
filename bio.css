@@ -18,7 +18,7 @@
 .text {
     text-align: left;
     position: fixed;
-    left: 23%;
+    left: 24%;
     right: 20%;
     margin: 5mm;
     top: 27%;
@@ -96,9 +96,9 @@ body {
     }
 
     #home {
-        color: rgb(195, 194, 194);
         position: fixed;
-        top:200px
+        top: 40%;
+        font-size: 2vw;
     }
 
     .background {
