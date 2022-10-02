@@ -92,7 +92,7 @@ body {
         font-size: 1.2vw;
         position: fixed;
         top: 21%;
-        left: 4%;
+        left: 25%;
         right: 35%;
     }
 
@@ -103,6 +103,15 @@ body {
         right: 23%;
         font: 1.8vw;
         color: rgb(195, 194, 194)
+    }
+    
+    #upsDescription {
+        color:rgb(195, 194, 194);
+        font-size: 1.2vw;
+        position: fixed;
+        top: 75%;
+        left: 25%;
+        right: 35%;
     }
 
     #ups {
@@ -132,14 +141,6 @@ body {
         right: 35%;
     }
 
-    #upsDescription {
-        color:rgb(195, 194, 194);
-        font-size: 1.2vw;
-        position: fixed;
-        top: 33%;
-        left: 4%;
-        right: 35%;
-    }
     
     .skills {
         position: fixed;
