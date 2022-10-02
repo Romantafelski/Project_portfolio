@@ -95,8 +95,8 @@ body {
     
     .changeBackground {
         position: fixed;
-        left: 20px;
-        bottom: 20px;
+        left: 1%;
+        bottom: 1%;
     }
     
     .background {
