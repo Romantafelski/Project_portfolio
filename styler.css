@@ -39,16 +39,15 @@ body {
     }
     
     #resume {
-        color: rgb(195, 194, 194);
-        position:fixed;
-        top: 50%;
+        position: fixed;
+        top: 45.5%;
         font-size: 2vw;
     }
     
     #projects {
         color:rgb(195, 194, 194);
         position:fixed;
-        top: 54%;
+        top: 50%;
         font-size: 2vw;
     }
     
