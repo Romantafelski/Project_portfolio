@@ -35,7 +35,7 @@ body {
     #bio {
         color: rgb(195, 194, 194);
         position: fixed;
-        top: 41%;
+        top: 40.5%;
         font-size: 2vw;
     }
     
@@ -49,14 +49,14 @@ body {
     #projects {
         color: rgb(195, 194, 194);
         position: fixed;
-        top: 47%;
+        top: 48.5%;
         font-size: 2vw;
     }
     
     #contact {
         color:rgb(195, 194, 194);
         position:fixed;
-        top: 50%;
+        top: 51.5%;
         font-size: 2vw;
     }
     
