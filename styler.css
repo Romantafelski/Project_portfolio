@@ -35,25 +35,29 @@ body {
     #bio {
         color: rgb(195, 194, 194);
         position: fixed;
-        top: 42%;
+        top: 41%;
+        font-size: 2.25vw;
     }
     
     #resume {
         color:rgb(195, 194, 194);
         position: fixed;
-        top: 45%;
+        top: 44%;
+        font-size: 2.25vw;
     }
     
     #projects {
         color: rgb(195, 194, 194);
         position: fixed;
-        top: 48%;
+        top: 47%;
+        font-size: 2.25vw;
     }
     
     #contact {
         color:rgb(195, 194, 194);
         position:fixed;
-        top: 51%;
+        top: 50%;
+        font-size: 2.25vw;
     }
     
     .Roman {
