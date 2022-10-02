@@ -89,16 +89,16 @@ body {
 
     #romans {
         position: fixed;  
-        left: 120px;
-        top: 120px;
-        right: 600px
+        left: 23%
+        top: 20%
+        right: 30%
     }
 
     #ups {
         position: fixed;  
-        left: 120px;
-        top: 300px;
-        right: 600px;
+        left: 23%;
+        top: 33%px;
+        right: 30%;
     }
 
     #cottageInn {
