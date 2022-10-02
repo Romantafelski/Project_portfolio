@@ -23,13 +23,13 @@ body {
     
     .menuButton {
         position: fixed;
-        top: 170px;
+        top: 20%;
         background: none;
         color: rgb(195, 194, 194);
         border: none;
-        font-size: 20px;
+        font-size: 1vw;
         text-decoration: underline;
-        left:2px;
+        left:.2%;
     }
     
     #bio {
