@@ -23,11 +23,11 @@ body {
     
     .menuButton {
         position: fixed;
-        top: 20%;
+        top: 35%;
         background: none;
         color: rgb(195, 194, 194);
         border: none;
-        font-size: 1vw;
+        font-size: 1.8vw;
         text-decoration: underline;
         left:.2%;
     }
@@ -59,14 +59,14 @@ body {
     .Roman {
         color: rgb(195, 194, 194);
         position: fixed;
-        top: 235px;
-        left: 280px;
+        top:50%;
+        left: 25%;
         border:rgb(195, 194, 194) ;
-        border: 3mm groove rgb(195, 194, 194);
+        border: .2vw groove rgb(195, 194, 194);
         background: none;
-        height: 8m;
-        width: 22cm;
-        font-size: 260px;
+        height: 10vw;
+        width: 32vw;
+        font-size: 30vw;
         text-align: center;
     
     
