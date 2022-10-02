@@ -115,10 +115,10 @@ body {
     
     .skills {
         position: fixed;
-        top: 100px;
-        left: 1100px;
+        top: 15%;
+        right: 2%;
         color:rgb(224, 224, 224);
-        font-size: 30px;
+        font-size: 2.2vw;
         font-weight: bold;
 
     }
@@ -133,15 +133,15 @@ body {
 
     .education {
         position: fixed;
-        bottom: 23%;
+        bottom: 22%;
         right: 9%;
         font: 2vw;
     }
 
     .school {
         position: fixed;
-        bottom: 7%;
-        right: .1%;
+        bottom: 2%;
+        right: .6%;
         color:rgb(195, 194, 194);
         font-size: 1.2vw;
     }
