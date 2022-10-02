@@ -73,16 +73,13 @@ body {
     
     .resumeHeader {
         color: rgb(195, 194, 194);
-        border: 2mm ridge;
-        color: rgb(195, 194, 194);
         position: fixed;
-        top: -5px;
-        left: 550px;
-        border: 2mm ridge rgb(195, 194, 194);
+        left: 40%;
+        border: 1vw ridge rgb(195, 194, 194);
         background: none;
-        height: 1.5cm;
-        width:8cm;
-        font-size: 42px;
+        height: 3vw;
+        width:8vw;
+        font-size: 3.5;
         text-align: center;
     }
 
