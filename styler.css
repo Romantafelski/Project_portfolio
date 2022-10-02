@@ -1,102 +1,102 @@
 body {
     
-background:url(https://cdn.wallpapersafari.com/67/66/nDuvAM.jpg)
-
-}
-
-.h1 {
-    color: rgb(195, 194, 194);
-    position: fixed;
-    top: .01vw;
- 
-}
-.h4 {
-    color: rgb(195, 194, 194);
-    position: fixed;
-    top: 3vw;
-    left: .02vw;
+    background:url(https://cdn.wallpapersafari.com/67/66/nDuvAM.jpg)
     
-}
-
-
-.menuButton {
-    position: fixed;
-    top: 170px;
-    background: none;
-    color: rgb(195, 194, 194);
-    border: none;
-    font-size: 20px;
-    text-decoration: underline;
-    left:2px;
-}
-
-#bio {
-    color: rgb(195, 194, 194);
-    position: fixed;
-    top:200px
-}
-
-#resume {
-    color:rgb(195, 194, 194);
-    position: fixed;
-    top: 220px;
-}
-
-#projects {
-    color: rgb(195, 194, 194);
-    position: fixed;
-    top: 240px
-}
-
-#contact {
-    color:rgb(195, 194, 194);
-    position:fixed;
-    top: 260px
-}
-
-.Roman {
-    color: rgb(195, 194, 194);
-    position: fixed;
-    top: 235px;
-    left: 280px;
-    border:rgb(195, 194, 194) ;
-    border: 3mm groove rgb(195, 194, 194);
-    background: none;
-    height: 8m;
-    width: 22cm;
-    font-size: 260px;
-    text-align: center;
-
-
-}
-
-.intro {
-    color:  rgb(195, 194, 194);
-    font-size: 24px;
-    position: fixed;
-    top: 350px;
-    left: 250px;
-    margin-right: 250px;
-}
-
-.linkedIn {
-    position: fixed;
-    right: 20px;
-    top: 20px;
-}
-
-.github {
-    position: fixed;
-    right: 70px;
-    top: 20px;
-}
-
-.changeBackground {
-    position: fixed;
-    left: 20px;
-    bottom: 20px;
-}
-
-.background {
-    background: url(https://removal.ai/wp-content/uploads/2021/09/black-background-10-hipwallpaper.png)
-}
+    }
+    
+    .h1 {
+        color: rgb(195, 194, 194);
+        position: fixed;
+        top: .5%;
+     
+    }
+    .h4 {
+        color: rgb(195, 194, 194);
+        position: fixed;
+        top: 3%;
+        left: .02vw;
+        
+    }
+    
+    
+    .menuButton {
+        position: fixed;
+        top: 170px;
+        background: none;
+        color: rgb(195, 194, 194);
+        border: none;
+        font-size: 20px;
+        text-decoration: underline;
+        left:2px;
+    }
+    
+    #bio {
+        color: rgb(195, 194, 194);
+        position: fixed;
+        top:200px
+    }
+    
+    #resume {
+        color:rgb(195, 194, 194);
+        position: fixed;
+        top: 220px;
+    }
+    
+    #projects {
+        color: rgb(195, 194, 194);
+        position: fixed;
+        top: 240px
+    }
+    
+    #contact {
+        color:rgb(195, 194, 194);
+        position:fixed;
+        top: 260px
+    }
+    
+    .Roman {
+        color: rgb(195, 194, 194);
+        position: fixed;
+        top: 235px;
+        left: 280px;
+        border:rgb(195, 194, 194) ;
+        border: 3mm groove rgb(195, 194, 194);
+        background: none;
+        height: 8m;
+        width: 22cm;
+        font-size: 260px;
+        text-align: center;
+    
+    
+    }
+    
+    .intro {
+        color:  rgb(195, 194, 194);
+        font-size: 24px;
+        position: fixed;
+        top: 350px;
+        left: 250px;
+        margin-right: 250px;
+    }
+    
+    .linkedIn {
+        position: fixed;
+        right: 20px;
+        top: 20px;
+    }
+    
+    .github {
+        position: fixed;
+        right: 70px;
+        top: 20px;
+    }
+    
+    .changeBackground {
+        position: fixed;
+        left: 20px;
+        bottom: 20px;
+    }
+    
+    .background {
+        background: url(https://removal.ai/wp-content/uploads/2021/09/black-background-10-hipwallpaper.png)
+    }
