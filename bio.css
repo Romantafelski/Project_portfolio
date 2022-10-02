@@ -68,6 +68,18 @@ body {
         text-decoration: underline;
         left:.2%;
     }
+    
+    
+    .menuButton {
+        position: fixed;
+        top: 35%;
+        background: none;
+        color: rgb(195, 194, 194);
+        border: none;
+        font-size: 2.5vw;
+        text-decoration: underline;
+        left:.2%;
+    }
 
     p {
         font-size: 1.3vw;
