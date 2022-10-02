@@ -60,12 +60,12 @@ body {
         color: rgb(195, 194, 194);
         position: fixed;
         top:50%;
-        left: 25%;
+        left: 50%;
         border:rgb(195, 194, 194) ;
-        border: .2vw groove rgb(195, 194, 194);
+        border: 1vw groove rgb(195, 194, 194);
         background: none;
-        height: 10vw;
-        width: 32vw;
+        height: 8vw;
+        width: 28vw;
         font-size: 7vw;
         text-align: center;
     
