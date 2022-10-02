@@ -59,7 +59,7 @@ body {
     .Roman {
         color: rgb(195, 194, 194);
         position: fixed;
-        top:50%;
+        top: 40%;
         left: 35%;
         border:rgb(195, 194, 194) ;
         border: 1vw groove rgb(195, 194, 194);
