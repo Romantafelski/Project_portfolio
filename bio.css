@@ -77,19 +77,22 @@ body {
     #resume {
         color:rgb(195, 194, 194);
         position: fixed;
-        top: 220px;
+        top: 44%;
+        font-size: 2vw;
     }
     
     #projects {
         color: rgb(195, 194, 194);
         position: fixed;
-        top: 240px
+        top: 48%;
+        font-size: 2vw;
     }
     
     #contact {
         color:rgb(195, 194, 194);
         position:fixed;
-        top: 260px
+        top: 52%;
+        font-size: 2vw;
     }
 
     #home {
