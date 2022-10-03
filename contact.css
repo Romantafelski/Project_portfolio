@@ -81,11 +81,12 @@ body {
     }
 
     .contact {
+        top: 30%;
         left: 40%;
         position: fixed;
-        height: 8vw;
-        width: 20vw;
-        font-size: 4vw;
+        height: 5vw;
+        width: 13vw;
+        font-size: 2vw;
     }
 
     .textLink {
@@ -97,17 +98,14 @@ body {
     }
 
     .contactMe {
-        color: rgb(195, 194, 194);
-        border: 2mm ridge;
+        border: 1.3vw ridge;
         color: rgb(195, 194, 194);
         position: fixed;
-        top: -5px;
-        left: 550px;
-        border: 2mm ridge rgb(195, 194, 194);
+        left: 45%;
         background: none;
-        height: 1.5cm;
-        width:8cm;
-        font-size: 42px;
+        height: 5vw;
+        width:14vw;
+        font-size: 5vw;
         text-align: center;
     }
 
