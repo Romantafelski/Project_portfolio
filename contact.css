@@ -86,11 +86,12 @@ body {
         top: 70%;
         left: 40%;
         font-size: 4vw;
+        display: none;
     }
 
     .contact {
         top: 30%;
-        left: 43%;
+        left: 48%;
         position: fixed;
         height: 5vw;
         width: 13vw;
