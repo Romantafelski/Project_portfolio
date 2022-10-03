@@ -75,9 +75,17 @@ body {
     .email {
         color: rgb(195, 194, 194);
         position: fixed;
-        top: 250px;
-        left: 360px;
-        font-size: 60px;
+        top: 50%;
+        left: 30%;
+        font-size: 4vw;
+    }
+
+    .textLink {
+        color: rgb(195, 194, 194);
+        position: fixed;
+        top: 70%;
+        left: 30%;
+        font-size: 4vw;
     }
 
     .contact {
@@ -89,23 +97,16 @@ body {
         font-size: 2vw;
     }
 
-    .textLink {
-        color: rgb(195, 194, 194);
-        position: fixed;
-        top: 50%;
-        left: 30%;
-        font-size: 4vw;
-    }
 
     .contactMe {
-        border: 1.3vw ridge;
+        border: .7vw ridge;
         color: rgb(195, 194, 194);
         position: fixed;
         left: 45%;
         background: none;
         height: 5vw;
-        width:14vw;
-        font-size: 5vw;
+        width:18vw;
+        font-size: 3vw;
         text-align: center;
     }
 
