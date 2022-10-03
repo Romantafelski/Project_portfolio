@@ -76,7 +76,7 @@ body {
         color: rgb(195, 194, 194);
         position: fixed;
         top: 50%;
-        left: 40%;
+        left: 37%;
         font-size: 4vw;
     }
 
@@ -84,7 +84,7 @@ body {
         color: rgb(195, 194, 194);
         position: fixed;
         top: 70%;
-        left: 40%;
+        left: 37%;
         font-size: 4vw;
         display: none;
     }
