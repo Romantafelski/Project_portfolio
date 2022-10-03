@@ -76,7 +76,7 @@ body {
         color: rgb(195, 194, 194);
         position: fixed;
         top: 50%;
-        left: 30%;
+        left: 40%;
         font-size: 4vw;
     }
 
@@ -84,13 +84,13 @@ body {
         color: rgb(195, 194, 194);
         position: fixed;
         top: 70%;
-        left: 30%;
+        left: 40%;
         font-size: 4vw;
     }
 
     .contact {
         top: 30%;
-        left: 40%;
+        left: 43%;
         position: fixed;
         height: 5vw;
         width: 13vw;

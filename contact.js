@@ -24,7 +24,6 @@ $("body").addClass("background")
     $("<button>").addClass("contact").text("Contact Me").appendTo("body")
     
     const showEmail = $("<div>").addClass("email").text("RomanTafelski@gmail.com").hide().appendTo("body")
-    const showLinkedIn = $("<div>").addClass("textLink").text("https://www.linkedin.com/in/roman-tafelski").hide().appendTo("body")
     
     const contactBox = () => {
         $(".email").toggle(1250)
