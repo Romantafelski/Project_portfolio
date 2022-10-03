@@ -40,21 +40,23 @@ body {
     }
     
     #bio {
-        color: rgb(195, 194, 194);
         position: fixed;
-        top:220px
+        top: 45.5%;
+        font-size: 2vw;
     }
     
     #resume {
         color:rgb(195, 194, 194);
-        position: fixed;
-        top: 240px;
+        position:fixed;
+        top: 50%;
+        font-size: 2vw;
     }
     
     #contact {
         color:rgb(195, 194, 194);
         position:fixed;
-        top: 260px
+        top: 54%;
+        font-size: 2vw;
     }
     
     .Roman {
