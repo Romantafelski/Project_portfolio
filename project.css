@@ -1,6 +1,7 @@
 body {
     
-    background:url(https://cdn.wallpapersafari.com/67/66/nDuvAM.jpg)
+    background:url(https://cdn.wallpapersafari.com/67/66/nDuvAM.jpg);
+    background-size: 100vw 100vh;
     
     }
     
@@ -138,7 +139,8 @@ body {
     }
 
     .background {
-        background: url(https://removal.ai/wp-content/uploads/2021/09/black-background-10-hipwallpaper.png)
+        background: url(https://removal.ai/wp-content/uploads/2021/09/black-background-10-hipwallpaper.png);
+        background-size: 100vw 100vh;;
     }
 
     .changeBackground {
