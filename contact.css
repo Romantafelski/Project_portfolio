@@ -81,12 +81,11 @@ body {
     }
 
     .contact {
-        top: 150px;
-        left: 635px;
+        left: 40%;
         position: fixed;
-        height: 60px;
-        width: 150px;
-        font-size: 20px;
+        height: 8vw;
+        width: 20vw;
+        font-size: 4vw;
     }
 
     .textLink {
